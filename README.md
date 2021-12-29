@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JakeJHurt
+- 🌱 I’m currently learning Web Dev with The Odin Project. Currently finishing up th HTML section.
+- 📫 How to reach me: @JHCodes on Tiwtter
